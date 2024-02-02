@@ -25,3 +25,8 @@ This project supports more than 150 currency codes and currency conversion happe
 5. Viewmodels
 6. Fragments
 7. recyclerview
+
+## Video
+
+[![Watch the video](https://github.com/abhinavsingh1998/CurrencyConverter/assets/88830847/c2eabe4d-6d19-4145-95ba-47b5ddc6745d
+)](https://github.com/abhinavsingh1998/CurrencyConverter/assets/88830847/c2eabe4d-6d19-4145-95ba-47b5ddc6745d)
