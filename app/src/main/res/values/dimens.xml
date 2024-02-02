@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="_2sdp">3.00dp</dimen>
+    <dimen name="_3sdp">4.50dp</dimen>
+    <dimen name="_4sdp">6.00dp</dimen>
+    <dimen name="_5sdp">7.50dp</dimen>
+    <dimen name="_8sdp">12.00dp</dimen>
+    <dimen name="_10sdp">15.00dp</dimen>
+    <dimen name="_12sdp">18.00dp</dimen>
+    <dimen name="_13sdp">19.50dp</dimen>
+    <dimen name="_15sdp">22.50dp</dimen>
+    <dimen name="_16sdp">24.00dp</dimen>
+    <dimen name="_20sdp">30.00dp</dimen>
+    <dimen name="_24sdp">36.00dp</dimen>
+    <dimen name="_25sdp">37.50dp</dimen>
+    <dimen name="_30sdp">45.00dp</dimen>
+    <dimen name="_35sdp">52.50dp</dimen>
+    <dimen name="_100sdp">150.00dp</dimen>
+    <dimen name="activity_horizontal_margin">16.00dp</dimen>
+    <dimen name="otp_width">240dp</dimen>
+
+    <!--&lt;!&ndash;bottom navigation bar text size&ndash;&gt;
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">10sp</dimen>
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">10sp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="def_text_size">14sp</dimen>
+    <dimen name="small_text_size">12sp</dimen>
+    <dimen name="half_margin">8dp</dimen>
+    <dimen name="toolbar_ttl_height">18sp</dimen>
+    <dimen name="double_margin">48dp</dimen>
+    <dimen name="cat_titl_size">16sp</dimen>
+    <dimen name="wallet_hist_size">38dp</dimen>
+    <dimen name="menu_margin">24dp</dimen>
+    <dimen name="menu_half_margin">12dp</dimen>
+    <dimen name="menu_double_margin">40dp</dimen>
+    <dimen name="menu_txt_size">16sp</dimen>
+    <dimen name="bottom_txt_size">18sp</dimen>
+    <dimen name="activity_horizontal_big_margin">24dp</dimen>
+    <dimen name="bottom_btn_ht">42dp</dimen>
+    <dimen name="banner_height">200dp</dimen>
+    <dimen name="maintenence_txt_padding">30dp</dimen>
+    <dimen name="home_prod_left_margin">12dp</dimen>
+    <dimen name="fav_margin">60dp</dimen>
+    <dimen name="prod_img_height">220dp</dimen>
+    <dimen name="splash_left_margin">60dp</dimen>
+    <dimen name="splash_top_margin">90dp</dimen>
+    <dimen name="valid_size">10sp</dimen>
+    <dimen name="search_prod_img_height">240dp</dimen>
+    <dimen name="button_height">46dp</dimen>
+    <dimen name="dialog_text_size">16sp</dimen>
+    <dimen name="details_image_height">260dp</dimen>
+    <dimen name="out_of_tv_size">16sp</dimen>
+    <dimen name="def_big_text_size">16sp</dimen>
+    <dimen name="coupon_et_width">210dp</dimen>
+    <dimen name="coupon_et_height">40dp</dimen>
+    <dimen name="coupon_txt_size">20sp</dimen>
+    <dimen name="img_margin">140dp</dimen>-->
+    <!--sizes for margin,padding-->
+    <dimen name="margin_size_0">0dp</dimen>
+    <dimen name="margin_size_1">1dp</dimen>
+    <dimen name="margin_size_2">2dp</dimen>
+    <dimen name="margin_size_3">3dp</dimen>
+    <dimen name="margin_size_4">4dp</dimen>
+    <dimen name="margin_size_5">5dp</dimen>
+    <dimen name="margin_size_6">6dp</dimen>
+    <dimen name="margin_size_7">7dp</dimen>
+    <dimen name="margin_size_8">8dp</dimen>
+    <dimen name="margin_size_9">9dp</dimen>
+    <dimen name="margin_size_10">10dp</dimen>
+    <dimen name="margin_size_12">12dp</dimen>
+    <dimen name="margin_size_14">14dp</dimen>
+    <dimen name="margin_size_15">15dp</dimen>
+    <dimen name="margin_size_16">16dp</dimen>
+    <dimen name="margin_size_17">17dp</dimen>
+    <dimen name="margin_size_18">18dp</dimen>
+    <dimen name="margin_size_20">20dp</dimen>
+    <dimen name="margin_size_25">25dp</dimen>
+    <dimen name="margin_size_28">28dp</dimen>
+    <dimen name="margin_size_30">30dp</dimen>
+    <dimen name="margin_size_35">35dp</dimen>
+    <dimen name="margin_size_37">35dp</dimen>
+
+    <dimen name="margin_size_40">40dp</dimen>
+    <dimen name="margin_size_45">45dp</dimen>
+    <dimen name="margin_size_50">50dp</dimen>
+    <dimen name="margin_size_51">51dp</dimen>
+    <dimen name="margin_size_53">53dp</dimen>
+    <dimen name="margin_size_55">55dp</dimen>
+    <dimen name="margin_size_60">60dp</dimen>
+    <dimen name="margin_size_65">65dp</dimen>
+    <dimen name="margin_size_70">70dp</dimen>
+    <dimen name="margin_size_75">75dp</dimen>
+    <dimen name="margin_size_80">80dp</dimen>
+    <dimen name="margin_size_81">81dp</dimen>
+    <dimen name="margin_size_85">85dp</dimen>
+    <dimen name="margin_size_90">90dp</dimen>
+    <dimen name="margin_size_100">100dp</dimen>
+    <dimen name="margin_size_103">103dp</dimen>
+    <dimen name="margin_size_105">105dp</dimen>
+    <dimen name="margin_size_120">120dp</dimen>
+    <dimen name="margin_size_145">145dp</dimen>
+    <dimen name="margin_size_143">143dp</dimen>
+    <dimen name="margin_size_150">150dp</dimen>
+    <dimen name="margin_size_156">156dp</dimen>
+    <dimen name="margin_size_180">180dp</dimen>
+    <dimen name="margin_size_200">200dp</dimen>
+    <dimen name="margin_size_220">220dp</dimen>
+    <dimen name="margin_size_250">250dp</dimen>
+    <dimen name="margin_size_300">300dp</dimen>
+
+    <!--sizes for text-->
+
+    <dimen name="text_size_10">10sp</dimen>
+    <dimen name="text_size_11">11sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_13">13sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_15">15sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_17">17sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_19">19sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_22">22sp</dimen>
+    <dimen name="text_size_25">25sp</dimen>
+    <dimen name="text_size_30">30sp</dimen>
+    <dimen name="price_text_size">12dp</dimen>
+    <dimen name="add_btn_padd">20dp</dimen>
+    <dimen name="quantity_btn_height">32dp</dimen>
+    <dimen name="spinner_txt_pdng">6dp</dimen>
+    <dimen name="track_order_txt_size">34sp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="progress_bar_height">2dp</dimen>
+
+
+</resources>
